@@ -1,6 +1,6 @@
-/* Ignore build files */
+# Ignore build files
 /build
 
-/* Ignore mac files */
+# Ignore mac files
 .DS_Store
 .idea
